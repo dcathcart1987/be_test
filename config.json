@@ -1,0 +1,6 @@
+{
+    "holdTimeout":30000,
+    "prodDataFileLoc":"../../data/data.json",
+    "testDataFileLoc":"../../data/data.test.json",
+    "apiUrl":"http://localhost:3300"
+}
